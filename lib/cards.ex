@@ -1,6 +1,6 @@
 defmodule Cards do
   @moduledoc """
-    Provides methods for creating and handling a deck of cards
+  Provides methods for creating and handling a deck of cards
   """
 
   @doc """
